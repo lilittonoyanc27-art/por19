@@ -1,0 +1,6 @@
+{
+  "name": "Spanish Pluscuamperfecto Dialogue",
+  "description": "An interactive dialogue between Gor and Gayane for learning the Spanish Pluscuamperfecto tense with Armenian translations and detailed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
